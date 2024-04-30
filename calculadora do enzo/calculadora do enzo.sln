@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora do enzo", "calculadora do enzo\calculadora do enzo.csproj", "{A42CBBC7-B2DE-4AAE-A993-EC95985C8B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42CBBC7-B2DE-4AAE-A993-EC95985C8B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42CBBC7-B2DE-4AAE-A993-EC95985C8B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42CBBC7-B2DE-4AAE-A993-EC95985C8B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42CBBC7-B2DE-4AAE-A993-EC95985C8B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB41311-E743-4F7B-9417-27ECF874DA49}
+	EndGlobalSection
+EndGlobal
